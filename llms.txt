@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amanik-fi-afkari/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Amanik Fi Afkari](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Amanik Fi Afkari](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
