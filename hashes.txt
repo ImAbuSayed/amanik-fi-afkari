@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amanik Fi Afkari
+
+This log tracks the cryptographic history and versioning for the song **Amanik Fi Afkari** (amanik-fi-afkari).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:35:14.887484 | `v1` | `18205e6e58c0196f6c1d06b439bb610ebc225c8fac514a9e77e5f0e5adf0989e` | `40e72871cf7a365d485bf29a976030ece54d07f4bc1be675898b678e67621f59` | `2026-05-08_amanik-fi-afkari-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
